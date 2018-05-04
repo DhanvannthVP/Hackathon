@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>Express Scripts</h1>
-        <p class="lead">Hi Everyone!!! This is sangeethaaa.Welcome to Hackathon!This is our first web application. Implementing to automate the Night shift allowance</p>
+        <p class="lead">Hi Everyone!!! This is DJ.Welcome to Hackathon!This is our first web application. Implementing to automate the Night shift allowance</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Explore more &raquo;</a></p>
     </div>
 
